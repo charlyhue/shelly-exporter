@@ -1,0 +1,6 @@
+port: 9490
+interval: 5
+
+devices:
+  - ip: 192.168.0.153
+    type: Plug
